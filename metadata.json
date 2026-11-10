@@ -1,0 +1,6 @@
+{
+  "name": "MetroForge",
+  "description": "City building simulation game with dynamic zoning, resource management, auto-saving, and offline APK export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
